@@ -10,4 +10,4 @@ WORKDIR /Filter-Bot
 
 COPY . .
 
-CMD ["python3", "main.pyc"]
+CMD ["python3", "main.py"]
